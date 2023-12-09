@@ -14,6 +14,6 @@
 
 // eslint-disable-next-line jsx-a11y/alt-text
 // eslint-disable-next-line @next/next/no-img-element
-const Image = ({ src, ...rest }) => <img alt="" src={`/lkkBlog${src}`}  {...rest} />
+const Image = ({ src, ...rest }) => <img alt="" src={`/lkkBlog${src}`} {...rest} />
 
 export default Image
