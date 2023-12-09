@@ -3,6 +3,6 @@
 import NextImage, { ImageProps } from 'next/image'
 
 // @ts-ignore
-const Image = ({ ...rest }: ImageProps) => <img alt='' {...rest} />
+const Image = ({ ...rest }: ImageProps) => <img alt="" {...rest} />
 
 export default Image
