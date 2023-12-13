@@ -22,9 +22,12 @@ export default function Footer() {
           <Link href="/">{siteMetadata.title}</Link>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">
+          {/* <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">
             Tailwind Nextjs Theme
-          </Link>
+          </Link> */}
+          <p className="text-sm leading-7 text-gray-500 dark:text-gray-400">
+            手把青秧插满田，低头便见水中天。心地清净方为道，退步原来是向前。
+          </p>
         </div>
       </div>
     </footer>

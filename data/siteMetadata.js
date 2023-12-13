@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'lkk Blog',
   author: '留奇',
   headerTitle: '留奇lkk',
-  description: '大道易得，一窍难求',
+  description: '万缘俱寂无因果，肌骨清明不轮回。',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
